@@ -22,6 +22,14 @@ Install my-project with npm
 I'm Hashed almaswi student at ust 
 I'm studing CS 
 
+## Demo
+
+Inter this link to view my web
+[Demo](hashedalmaswi.github.io/homework/)
+
+
+
+
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
@@ -71,10 +79,6 @@ To run this project, you will need to add the following environment variables to
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
-
-## Demo
-
-Insert gif or link to demo
 
 
 ## Deployment
